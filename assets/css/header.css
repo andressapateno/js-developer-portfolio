@@ -29,6 +29,11 @@
     font-family: Neue Machina;
 }
 
+span#profile\.name {
+    font-family: Neue Machina;
+    font-size: 2rem;
+}
+
 .information {
     display: flex;
     flex-direction: column;
