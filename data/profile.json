@@ -1,0 +1,125 @@
+{
+  "name": "Andressa Pateno",
+  "photo": "https://avatars.githubusercontent.com/u/113547427?v=4",
+  "job": "Junior Developer (Em transição de Carreira)",
+  "location": "Embu das Artes - SP",
+  "phone": "(11) 97802-9006",
+  "email": "andressa.pateno@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/andressapateno/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Node",
+        "logo": "https://raw.githubusercontent.com/andressapateno/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/andressapateno/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/andressapateno/js-developer-portfolio/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/andressapateno/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/andressapateno/js-developer-portfolio/main/data/imgs/css.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pontualidade",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Básico)",
+    "Espanhol (Básico)"
+  ],
+    "education": [
+    {
+      "name": "Engenharia Civil - Graduação",
+      "description": "Faculdade de Engenharia de São Paulo Conclusão em Dezembro de 2016."
+    },
+    {
+      "name": "Full stack development design, engineering e deployment - Pós Graduação",
+      "description": "Fecaf - Em andamento"
+    },
+    {
+      "name": "Formação JavaScript Developer",
+      "description": "DIO - (01/2023) - Javascrit Intermediário. Carga horária: 38h"
+    },
+    {
+      "name": "Introdução à programação com Python",
+      "description": "DIO - (11/2022) - Caraga Horária: 8h"
+    },
+    {
+      "name": "Introdução à Programação WEB - Codaí 2.0",
+      "description": "GrowDev - (09/2022) - Carga horária: 20h"
+    },
+    {
+      "name": "HTML5 e CSS3",
+      "description": "Alura - (05/2014)"
+    },
+    {
+      "name": "HTML Avançado",
+      "description": "Fundação Bradesco - (04/2022) - Carga horária: 6h"
+    },
+    {
+      "name": "HTML Básico",
+      "description": "Fundação Bradesco - (03/2022) - Carga horária: 11h"
+    },
+    {
+      "name": "Autocad 1014 Básico",
+      "description": "SENAC Consolação - (01/2014) - Projetos em 2D. Carga horária: 42h"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Nikel",
+      "url": "https://github.com/andressapateno/Nikel",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/andressapateno/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "ENGENHEIRA AUTÔNOMA",
+      "period": "01/2019 - Data Atual",
+      "description": "Execução de projetos de Prevenção e Combate a Incêndio, Execução de projetos para reformas, Execução de Projetos para prefeitura, Emissão de Licenças e acompanhamento de obra."
+    },
+    {
+      "name": "KOMFORT HOUSE SOFÁS LTDA - Assistente de Arquitetura",
+      "period": "04/2018 - 12/2018",
+      "description": "Elaboração de projetos, coordenação e acompanhamento de equipe de manutenção, cotação e compra de materiais, fiscalização de manutenções de lojas com vistorias periódicas, contratação de mão de obra, acompanhamento de obras de reforma e processos para obtenção de documentações junto a órgãos competentes"
+    },
+    {
+      "name": "SMART ACADEMIA DE BOMBEIROS - Assistente Administrativo",
+      "period": "10/2015 - 10/2016",
+      "description": "Atendimento ao cliente, elaboração de projetos de prevenção e combate a incêndio, emissão de AVCBs, cotação e compra de materiais, contratação de mão de obra e serviços especializados e acompanhamento de obras hidráulicas."
+    },
+    {
+      "name": "JLL - Estagiária - Gerenciamento de Propriedades",
+      "period": "12/2012 - 10/2014",
+      "description": "Atendimento ao cliente, coordenação de equipe de manutenção, acompanhamento de manutenções preventivas e corretivas no edifício, abertura de ordens de serviço, compra de materiais, vistorias e cotações e contratações de mão de obra."
+    },
+    {
+      "name": "TEXTHURA Y COR COMERCIAL LTDA - Recepcionista",
+      "period": "08/2011 - 11/2012",
+      "description": "Atendimento ao cliente, cotações, levantamentos de materiais, negociações com fornecedores e abastecimento de planilhas de vendas."
+    }
+  ]
+}

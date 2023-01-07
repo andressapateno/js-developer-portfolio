@@ -1,0 +1,18 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.education h3 {
+    display: inline-flex;
+    margin: 1rem, 0, 1rem, 0;
+}
+
+.education p {
+    padding: 0;
+    margin: 0;
+}
+
